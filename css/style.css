@@ -1,0 +1,7 @@
+section {
+  display: grid;
+  background-color: #e4e3e3;
+  height: 800px;
+  justify-content: center;
+  align-items: center;
+}
